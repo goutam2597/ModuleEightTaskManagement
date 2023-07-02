@@ -1,16 +1,3 @@
-# module_eight_task_management
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230702_230724](https://github.com/goutam2597/ModuleEightTaskManagement/assets/134217195/eabf7837-18b5-4738-a2e7-052265312798)
+![Screenshot_20230702_230810](https://github.com/goutam2597/ModuleEightTaskManagement/assets/134217195/2e9d42ef-816c-44e7-8f59-50ebdd2904bf)
+![Screenshot_20230702_230822](https://github.com/goutam2597/ModuleEightTaskManagement/assets/134217195/df144a49-5472-4c6d-9830-c12a816c869c)
